@@ -107,12 +107,12 @@ body {
 /* 종합위탁 이름 */
 .account-name {
   font-family: "NanumSquare", sans-serif;
-  font-size: 23px;
+  font-size: 22px;
   font-weight: 400;
   letter-spacing: -0.2px;
   margin-left: 5px;
   position: relative;
-  top: -1px;
+  top: -2px;
 }
 
 .app-wrap {
